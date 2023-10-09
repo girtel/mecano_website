@@ -2,6 +2,7 @@
 title: Una flota de patinetes eléctricos monitorizará la contaminación y mejorará la movilidad urbana
 date: 2021-05-25
 draft: false
+abstract: "Investigadores de la Politécnica recabarán los datos para indicar itinerarios no congestionados y predecir picos de polución"
 ---
 
 Investigadores de la Politécnica recabarán los datos para indicar itinerarios no congestionados y predecir picos de polución

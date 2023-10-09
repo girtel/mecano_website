@@ -2,6 +2,7 @@
 title: IoT para mejorar la calidad del aire y la movilidad
 date: 2021-07-13
 draft: false
+abstract: "José Santa, investigador Ramón y Cajal en la Universidad Politécnica de Cartagena, trabaja en la digitalización y conexión de los vehículos de transporte personal como bicicletas, ciclomotores y patinetes"
 ---
 
 José Santa, investigador Ramón y Cajal en la Universidad Politécnica de Cartagena, trabaja en la digitalización y conexión de los vehículos de transporte personal como bicicletas, ciclomotores y patinetes
