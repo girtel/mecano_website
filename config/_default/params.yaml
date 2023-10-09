@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
+  theme_day: 
   theme_night: minimal
   font: native
   font_size: L
@@ -38,14 +38,14 @@ header:
     show_language: false
     show_day_night: true
     show_search: true
-    highlight_active_link: true
+    highlight_active_link: false
 
 # Site footer
 
 footer:
   image: [assets/media/logo.png]
-  copyright:
-    notice: '© {year} - All Rights Reservd'
+  copyright: 
+    notice: '© {year} - All Rights Reserved <br> Proyecto financiado a través del Programa de ayudas a proyectos singulares en materia de movilidad sostenible (Programa de incentivos a la Movilidad Eficiente y Sostenible, MOVES) Convocatoria 2019, por el Ministerio para la Transición Ecológica y el Reto Demográfico – Instituto para la Diversificación y Ahorro de la Energía (IDAE), y por el Fondo Europeo de Desarrollo Regional (FEDER) en el marco del Programa Operativo Plurirregional de España (POPE) para el periodo 2014-2020.'
     license:
       enable: false
       allow_derivatives: false

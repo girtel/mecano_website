@@ -8,9 +8,10 @@ headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 active: true
 title: |
-  Example (Example)
-subtitle: Financiado por Example
-#hero_media: welcome.png
+  MECANO - Eco-Efficient Mobility for Connected Citizens
+subtitle: (Movilidad Ecoeficiente y Conectada para Ciudadanos - PGE-MOVES-SING-2019-000104)
+image_title: mecano.png
+image_height: 300px
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'

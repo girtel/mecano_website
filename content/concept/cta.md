@@ -1,6 +1,6 @@
 ---
-title:
-subtitle:
+title: Concept
+subtitle: Systems for Cooperative Two-Wheel Vehicles (SCOOTER)
 widget: blank
 headless: true
 active: true
@@ -10,22 +10,22 @@ design:
 ---
 <div style="text-align: justify"> 
 
-Proident non eiusmod anim nulla id adipisicing mollit. Sit aliqua est ipsum ipsum aliqua sint qui id anim voluptate sunt nulla. Incididunt Lorem amet ullamco est aliqua eu ex sit eu.
+El proyecto MECANO tiene como objetivo mejorar la movilidad urbana mediante el uso de medios de transporte sostenibles eficientes y seguros, y el seguimiento y reducción de la huella de carbono, incluido su impacto en la ciudadanía. Para ello, se propone la conexión de los nuevos vehículos de movilidad personal a Internet, aprovechando las nuevas tecnologías de comunicación del Internet de las Cosas (IoT). De ahí que estos vehículos se consideren como "sensores móviles" que se mueven por las ciudades inteligentes. Los datos recopilados de los vehículos y los sensores de la carretera se someten a un procesamiento inteligente para monitorear los parámetros de contaminación y proporcionar servicios para optimizar la movilidad urbana, detectar áreas de contaminación, recomendar pistas saludables y gestión dinámica / predictiva del tráfico.
+ 
+MECANO propone desarrollar una plataforma para recoger datos de los vehículos de movilidad personal, prestando especial atención a los dispositivos de movilidad eléctrica y reduciendo las emisiones y el ruido. Se está desarrollando una plataforma embarcada basada en tecnologías de comunicación de red de área amplia de baja potencia (LPWAN), que permite la conexión a Internet siguiendo un esquema de IoT. La unidad está provista de datos de calidad del aire, monitoreo de CO2, CO, NO, NO y PMx, entre otros; contaminación acústica; radiación solar; y parámetros climáticos. Estos datos se procesan en una granularidad configurable a nivel de calle, por barrio, por distrito y ciudad, considerando también los datos de volumen de tráfico, para ofrecer servicios de movilidad. Estos servicios utilizan técnicas de optimización para minimizar los tiempos de viaje, la contaminación y la exposición a altos niveles de contaminación.
 
-Lorem ex aute adipisicing amet aliqua. Lorem excepteur Lorem exercitation et non magna laborum laboris irure dolor. Anim magna mollit minim est do nisi aliqua. Enim ex id proident sint. Fugiat et minim est nostrud nisi deserunt enim culpa voluptate elit reprehenderit officia reprehenderit adipisicing. Anim Lorem magna et enim incididunt ea qui.
+<p><b>Objetivos</b></p>
 
-Cupidatat veniam elit esse nulla. Elit cillum dolore tempor irure aute. Laborum incididunt pariatur eu aute non. Id deserunt fugiat minim proident ut do irure id et irure fugiat id.
+<ul>
+<li>Diseñar una unidad embarcada que integre comunicaciones IoT y sensores para vehículos de movilidad personal. Integración de unidades en vehículos reales.</li>
+<li>Monitorización de la contaminación mediante sensores móviles a bordo de los vehículos.</li>
+<li>Micro y macro monitoreo del tráfico urbano.</li>
+<li>Desarrollar algoritmos para identificar patrones de contaminación y predecir tendencias.</li>
+<li>Desarrollar servicios de gestión del tráfico utilizando técnicas de optimización, enfocadas a la salud peatonal y utilizando un transporte sostenible.</li>
+<li>Extrapolar los resultados a nuevos planes urbanísticos que fomenten el uso del transporte sostenible.</li>
+<li>Desplegar un piloto experimental utilizando e-scooters y aplicaciones reales para explotar los avances de MECANO.</li>
+</ul>
 
-Fugiat proident et enim elit amet ipsum consectetur laboris ullamco occaecat sit sit nostrud officia. Aute irure deserunt excepteur veniam dolore dolore. Ad Lorem deserunt labore reprehenderit dolor laboris sunt nostrud Lorem aliqua ullamco. Ad ex qui enim ad aute ex ad duis laboris quis in. Ipsum proident occaecat eiusmod sunt. Aliquip eu cillum fugiat eu id mollit fugiat ea ipsum adipisicing.
-
-Elit exercitation do ea eu qui non id mollit sint cupidatat. Ex ipsum nisi id velit enim Lorem in velit. Eiusmod fugiat quis elit aute mollit proident. Cillum qui nulla dolore adipisicing nisi. Ex dolor amet mollit nisi et non magna anim. Pariatur duis pariatur ut sint excepteur ullamco anim labore.
-
-Nostrud enim elit sunt cillum nulla ad sint incididunt fugiat ex anim aliqua deserunt. Culpa voluptate culpa ad laboris ut anim ex minim enim. Id nulla dolor velit eu cupidatat nulla tempor qui reprehenderit. Voluptate laborum nisi culpa dolor laboris occaecat quis quis. Aute consectetur do id est velit enim qui nulla reprehenderit qui commodo aute fugiat. Dolor labore ea sit nulla id culpa exercitation aute veniam. Enim ut ad amet tempor fugiat labore magna laboris anim commodo.
-
-Amet dolore duis veniam anim occaecat labore. Id pariatur laboris proident eu. Eiusmod veniam et ex consectetur quis eiusmod ut in proident excepteur. Minim mollit nulla consectetur ipsum.
-
-In in sit nisi id minim eiusmod qui ipsum do sit. Anim eu ipsum amet ut id culpa anim nisi nostrud adipisicing ullamco veniam aliquip duis. Ex adipisicing tempor Lorem nisi laboris magna exercitation Lorem excepteur Lorem nisi cillum ex.
-
-Minim quis dolore sit incididunt laboris pariatur laborum incididunt. Consequat eu labore ut mollit. Tempor irure labore irure voluptate amet ipsum in anim ea enim non veniam veniam. Aute laboris veniam occaecat id nostrud aute nostrud culpa. Voluptate anim minim anim tempor ut pariatur pariatur irure sit sint ad. Consectetur id commodo officia dolore officia aliqua dolor esse do occaecat incididunt nulla culpa. Mollit reprehenderit eu incididunt aliqua.
+<img src="imagen.png">
 
 </div>
