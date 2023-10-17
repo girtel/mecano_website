@@ -11,7 +11,7 @@ banner:
 ---
 
 <div style="text-align: center">
-Papers and documents published in frames of the SCOOTER project
+Papers and documents published in frames of the MECANO project
 
 </div>
 <br>
